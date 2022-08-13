@@ -14,5 +14,5 @@
   }
 
   const antman:Avenger = new Avenger('AntMan', 'Capitao');
-console.log(antman)
+// console.log(antman)
 })();
